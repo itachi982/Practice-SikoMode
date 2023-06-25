@@ -10,3 +10,12 @@ Inside this repository, you'll find a detailed report outlining my step-by-step 
 This report serves as a resource for those interested in learning the basics of malware analysis and highlights my own learning journey. I encourage collaboration, feedback, and discussions from fellow analysts and researchers to strengthen our collective knowledge.
 
 Feel free to explore the report, share your thoughts, and join the conversation.
+
+
+!!!!Warning
+
+This Repo Contains Active/Live Malware for Analysis Purpose Be Extra careful with that.
+Please Use a Proper lab setup /sandbox to Analyze it
+Detonate And have Fun.
+Password For Extracting is in Password.txt
+After Extracting , Remove .malz
